@@ -75,7 +75,7 @@ button {  width: auto; overflow: visible; }
 
 body, select, input, textarea {  color: #444; }
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
-a, a:active, a:visited { color: #607890; }
+a, a:active, a:visited { color: white; }
 a:hover { color: #036; }
 
 /*
@@ -144,6 +144,7 @@ nav a{
 	background-color:#e44d26;
 }
 
+/* ASIDE */
 aside{
 	color:white;
 	padding:20px;
@@ -156,6 +157,23 @@ aside{
 	-webkit-box-shadow:0 0px 40px -10px #AAA;
 	   -moz-box-shadow:0 0px 40px -10px #AAA;
 	        box-shadow:0 0px 40px -10px #AAA;	
+}
+
+aside a {
+    color: white;   
+}
+
+aside ul {
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px;   
+    text-align: center;
+    background: white;
+    border: 5px solid #E44D26;
+}
+
+aside ul li div {
+    color: black;
 }
 
 #main p{
