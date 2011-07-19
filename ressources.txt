@@ -1,0 +1,8 @@
+Outil de gestion de fichier d'upload au click
+http://code.google.com/p/upload-at-click/
+
+Plugin bien fait pour la même chose ! 
+http://plugins.jquery.com/plugin-tags/file-dialog
+
+test en ligne, fonctionnel !
+http://jsfiddle.net/CSvjw/1/
