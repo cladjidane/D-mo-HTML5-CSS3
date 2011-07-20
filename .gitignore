@@ -1,0 +1,11 @@
+# Ignorer les répertoires suivants : 
+cache/
+tmp/
+images/
+tmp/
+logs/
+
+cache/**/*
+images/**/*
+configuration.php
+
