@@ -1,0 +1,22 @@
+﻿tinyMCE.addI18n('fr.emotions_dlg',{
+title:"Insérez un émoticône",
+desc:"Emoticônes",
+confused:"Confus",
+cool:"Cool",
+cry:"Triste",
+eek:"Ébahi",
+embarassed:"Embarassé",
+evil:"Méchant",
+frown:"Mécontent",
+grin:"Sourire",
+laughing:"Content",
+mad:"Fâché",
+neutral:"Neutre",
+roll:"Dubitatif",
+sad:"Déçu",
+smile:"Sourire",
+surprised:"Surpris",
+tongue_out:"Coquin",
+wink:"Complice",
+yell:"Furieux"
+});

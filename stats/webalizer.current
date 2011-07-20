@@ -1,0 +1,140 @@
+# Webalizer V2.01-10 Incremental Data - 07/19/2011 22:16:45
+2011 7 19 22 16 45
+17 15 1 6 3 1 29489 6 1 0 0 0
+1 17 17 19 19
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+17 15 29489 1 6 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+17 15 29489 6 0 0
+0 0 0 0 0 0
+0
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 3 0 2967 1 0 0 0
+/css/style.css
+0 3 0 7254 0 0 0 0
+/file-api-js.html
+0 2 0 3662 0 0 0 0
+/js/libs/modernizr-1.7.min.js
+0 3 0 11064 0 0 0 0
+/js/script.js
+0 3 0 1668 0 0 0 0
+/file-api-jquery.html
+0 1 0 1256 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+82.252.214.63
+0 17 15 29489 1 1311113805
+/file-api-jquery.html 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+82.252.214.63
+0 17 15 29489 1 1311113805
+/file-api-jquery.html 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 5
+http://demo.fabiencanu.fr/file-api-js.html
+1 3
+http://demo.fabiencanu.fr/
+1 9
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+0 17
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

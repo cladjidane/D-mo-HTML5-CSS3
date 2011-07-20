@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension
+	version="1.7"
+	type="template"
+	client="site">
+	<name>Démo fabien CANU</name>
+	<creationDate>20/07/2011</creationDate>
+	<author>Fabien CANU</author>
+	<authorEmail>fabien.canu@gmail.com</authorEmail>
+	<authorUrl>http://blog.fabiencanu.fr</authorUrl>
+	<copyright>Fabien CANU</copyright>
+	<version>1.0</version>
+	<description>Template basé sur Initializr, basé lui même sur Boilerplate</description>
+	<files>
+		<folder>html</folder>
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>favicon.ico</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+
+	<positions>
+		<position>menu</position>
+		<position>aside</position>
+		<position>footer</position>
+	</positions>
+
+</extension>
