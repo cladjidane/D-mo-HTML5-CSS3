@@ -1,0 +1,22 @@
+/* CSS Dédié à FILE API */
+
+#fileSelect {
+	padding: 3px;
+	background: white;
+}
+
+#fileElem {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#edit {
+	color: red;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#zone-edit {
+	width: 620px;
+}

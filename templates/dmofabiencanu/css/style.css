@@ -120,12 +120,22 @@ h2, h3{
 	float:left;
 }
 
-h2{
+
+#title span {
+	font-size: 48px;
+}
+
+
+h1 {
 	font-size: 55px;
 }
 
-h3{
+h2{
 	font-size: 40px;
+}
+
+h3{
+	font-size: 30px;
 }
 
 nav{
@@ -183,13 +193,14 @@ article {
 }
 
 .menu li {
-	padding: 15px 0;
+	padding: 8px 0;
 }
 
 #main p{
 	font:16px/26px Helvetica, Helvetica Neue, Arial;
 	width:620px;
 	text-shadow:none;
+	margin: 20px 0;
 }
 
 #main header h2{
@@ -198,7 +209,6 @@ article {
 
 article header{
 	margin-bottom:50px;
-	padding-bottom:30px;
 	width:700px;
 	-webkit-box-shadow:0 45px 60px -60px #AAA;
 	   -moz-box-shadow:0 45px 60px -60px #AAA;

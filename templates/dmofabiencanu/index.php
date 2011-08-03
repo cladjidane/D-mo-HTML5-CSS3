@@ -30,14 +30,21 @@ $app = JFactory::getApplication();
 	<link rel="apple-touch-icon" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/apple-touch-icon.png">
 	<link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/style.css">
 	<link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/960.css">
-
+	
+	<!--
+	
+		TODO // Lier les fichiers entres eux pour n'avoir à faire qu'un appel
+	
+	-->
+	<link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/file-api.css">
+	
 	<script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/js/libs/modernizr-1.7.min.js"></script>
 </head>
 <body>
 
 	<div id="header-container">
 		<header class="wrapper">
-			<h1 id="title">File API</h1>
+			<h1 id="title">HTML5 <span>par l'exemple</span></h1>
             <nav>
                 <?php if($this->countModules('menu')) : ?>
                     <aside>
@@ -68,8 +75,8 @@ $app = JFactory::getApplication();
 	</div>
     
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-	<script>!window.jQuery && document.write(unescape('%3Cscript src="js/libs/jquery-1.5.1.min.js"%3E%3C/script%3E'))</script>
-	<script src="js/script.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/js/libs/jquery-1.5.1.min.js"%3E%3C/script%3E'))</script>
+	<script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/js/script.js"></script>
 	<!--[if lt IE 7 ]>
 	<script src="js/libs/dd_belatedpng.js"></script>
 	<script> DD_belatedPNG.fix('img, .png_bg');</script>
